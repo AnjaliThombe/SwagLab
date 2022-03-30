@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-30T21:08:58 IST" name="Suite" finished-at="2022-03-30T21:09:51 IST" duration-ms="52448">
+    <groups>
+    </groups>
+    <test started-at="2022-03-30T21:08:58 IST" name="Test" finished-at="2022-03-30T21:09:32 IST" duration-ms="33693">
+      <class name="TestCases.Swag_TC0102">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:TestCases.Swag_TC0102@32b260fa]" started-at="2022-03-30T21:09:11 IST" name="BrowserSetup" finished-at="2022-03-30T21:09:13 IST" duration-ms="1043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC0102()[pri:0, instance:TestCases.Swag_TC0102@32b260fa]" started-at="2022-03-30T21:09:13 IST" name="TC0102" finished-at="2022-03-30T21:09:32 IST" duration-ms="19240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC0102 -->
+        <test-method is-config="true" signature="KillResources()[pri:0, instance:TestCases.Swag_TC0102@32b260fa]" started-at="2022-03-30T21:09:32 IST" name="KillResources" finished-at="2022-03-30T21:09:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillResources -->
+      </class> <!-- TestCases.Swag_TC0102 -->
+      <class name="TestCases.Swag_TC0104">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:TestCases.Swag_TC0104@3e84448c]" started-at="2022-03-30T21:08:58 IST" name="BrowserSetup" finished-at="2022-03-30T21:09:00 IST" duration-ms="1454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC0104()[pri:0, instance:TestCases.Swag_TC0104@3e84448c]" started-at="2022-03-30T21:09:00 IST" name="TC0104" finished-at="2022-03-30T21:09:11 IST" duration-ms="11916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC0104 -->
+        <test-method is-config="true" signature="KillResources()[pri:0, instance:TestCases.Swag_TC0104@3e84448c]" started-at="2022-03-30T21:09:11 IST" name="KillResources" finished-at="2022-03-30T21:09:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillResources -->
+      </class> <!-- TestCases.Swag_TC0104 -->
+    </test> <!-- Test -->
+    <test started-at="2022-03-30T21:09:32 IST" name="Test1" finished-at="2022-03-30T21:09:51 IST" duration-ms="18704">
+      <class name="TestCases.Swag_TC0101">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:TestCases.Swag_TC0101@2c35e847]" started-at="2022-03-30T21:09:32 IST" name="BrowserSetup" finished-at="2022-03-30T21:09:33 IST" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC0101()[pri:0, instance:TestCases.Swag_TC0101@2c35e847]" started-at="2022-03-30T21:09:33 IST" name="TC0101" finished-at="2022-03-30T21:09:34 IST" duration-ms="1294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC0101 -->
+        <test-method is-config="true" signature="KillResources()[pri:0, instance:TestCases.Swag_TC0101@2c35e847]" started-at="2022-03-30T21:09:34 IST" name="KillResources" finished-at="2022-03-30T21:09:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillResources -->
+      </class> <!-- TestCases.Swag_TC0101 -->
+      <class name="TestCases.Swag_TC0106">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:TestCases.Swag_TC0106@7bd4937b]" started-at="2022-03-30T21:09:34 IST" name="BrowserSetup" finished-at="2022-03-30T21:09:36 IST" duration-ms="1571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="TC0106()[pri:0, instance:TestCases.Swag_TC0106@7bd4937b]" started-at="2022-03-30T21:09:36 IST" name="TC0106" finished-at="2022-03-30T21:09:50 IST" duration-ms="14665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC0106 -->
+        <test-method is-config="true" signature="KillResources()[pri:0, instance:TestCases.Swag_TC0106@7bd4937b]" started-at="2022-03-30T21:09:50 IST" name="KillResources" finished-at="2022-03-30T21:09:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillResources -->
+      </class> <!-- TestCases.Swag_TC0106 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
